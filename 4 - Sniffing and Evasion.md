@@ -18,7 +18,7 @@
 
 ### <u>Protocols Susceptible</u>
 
-- SMTP is sent in plain text and is viewable over the wire.  SMTP v3 limits the information you can get, but you can still see it.
+- SNMP is sent in plain text and is viewable over the wire.  SNMP v3 limits the information you can get, but you can still see it.
 - FTP sends user ID and password in clear text
 - TFTP passes everything in clear text
 - IMAP, POP3, NNTP and HTTP all  send over clear text data
